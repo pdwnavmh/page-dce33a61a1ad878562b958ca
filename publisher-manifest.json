@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "282e4b69fd709a44cb178b16",
+  "owner": "pdwnavmh",
+  "repo": "page-dce33a61a1ad878562b958ca",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dce33a61a1ad878562b958ca",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e888731947a5b6fc613ca259f21b95159250cfe744d020a7397614b8ce513958",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供专业机场订阅与VPN加速服务，多种流量套餐可选，支持流媒体解锁和官方客户端下载。安全稳定线路保障您的网络体验。",
+          "AI_DESCRIPTION": "GPT代充提供专业机场订阅与VPN加速服务，多种流量套餐可选，支持流媒体解锁和官方客户端下载。安全稳定线路保障您的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            background: linear-gradient(to bottom, #0A2540, #1E3A8A);\n            color: #E0F2FE;\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            line-height: 1.7;\n            font-size: 16px;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #00D4FF;\n            text-align: center;\n            font-size: 2.8rem;\n            margin-bottom: 20px;\n            text-shadow: 0 2px 4px rgba(0,0,0,0.3);\n        }\n        h2 {\n            color: #67E8F9;\n            font-size: 1.8rem;\n            margin: 40px 0 20px;\n            border-bottom: 2px solid #00D4FF;\n            padding-bottom: 10px;\n        }\n        p, ul, ol {\n            font-size: 1.05rem;\n            margin-bottom: 15px;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n            background: #1E3A8A;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        th, td {\n            padding: 15px;\n            text-align: left;\n            border-bottom: 1px solid #00D4FF;\n        }\n        th {\n            background: #00D4FF;\n            color: #0A2540;\n            font-weight: bold;\n        }\n        tr:hover {\n            background: #334155;\n        }\n        tr:nth-child(2) {\n            background: #1E40AF;\n        }\n        details {\n            margin: 15px 0;\n            background: #1E3A8A;\n            border-radius: 8px;\n            padding: 10px;\n        }\n        summary {\n            font-weight: bold;\n            color: #67E8F9;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        .package-card {\n            background: #1E3A8A;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 15px 0;\n        }\n        .featured {\n            border: 3px solid #00D4FF;\n            position: relative;\n        }\n        .featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: #00D4FF;\n            color: #0A2540;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n            font-weight: bold;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2rem; }\n            h2 { font-size: 1.5rem; }\n            table { display: block; overflow-x: auto; }\n            th, td { min-width: 130px; }\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT代充</h1>\n        <h2>品牌简介</h2>\n        <p>GPT代充作为专业的机场订阅和VPN加速平台，致力于为用户提供安全稳定、高速可靠的网络加速服务。我们采用优质节点和优化线路，帮助用户畅享国际流媒体、加速游戏及日常上网体验。</p>\n        <h2>使用场景</h2>\n        <ul>\n            <li>国际流媒体解锁：Netflix、YouTube、Disney+ 等主流平台原生解锁</li>\n            <li>游戏加速：降低延迟，提升在线竞技体验</li>\n            <li>科学上网：突破地区限制，稳定连接</li>\n            <li>远程办公与多设备使用：支持多台设备同时在线</li>\n        </ul>\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网选择适合您的套餐并完成支付</li>\n            <li>登录账号后进入客户端下载页面</li>\n            <li>下载适用于Windows、Mac、Android、iOS的官方客户端</li>\n            <li>安装完成后使用账号登录，选择可用节点连接</li>\n            <li>享受高速加速与流媒体解锁服务</li>\n        </ol>\n        <h2>套餐对比</h2>\n        \n            \n                \n                    版本\n                    价格\n                    年付价格\n                    流量\n                    设备\n                    节点类型\n                    解锁功能\n                    亮点\n                \n            \n            \n                \n                    基础版\n                    ¥15/月\n                    按年付仅需 ¥150/年\n                    每月 100GB 极速流量\n                    支持 3 台设备同时在线\n                    普通线路节点池\n                    解锁基础流媒体\n                    入门级稳定加速\n                \n                \n                    旗舰版\n                    ¥35/月\n                    按年付仅需 ¥350/年\n                    每月 300GB 极速流量\n                    支持 5 台设备同时在线\n                    IPLC 专线游戏加速优化\n                    全节点原生流媒体解锁\n                    7x24 优先工单支持\n                \n                \n                    团队版\n                    ¥85/月\n                    按年付仅需 ¥850/年\n                    每月 1000GB 极速流量\n                    支持 20 台设备同时在线\n                    VIP 专属高带宽节点\n                    支持企业定制路由\n                    专属客户经理服务\n                \n            \n        \n        <h2>常见问题</h2>\n        <details>\n            <summary>1. GPT代充是什么服务？</summary>\n            <p>GPT代充是专业的机场订阅与VPN加速平台，提供高速稳定线路和官方客户端下载，帮助用户安全畅享国际网络内容。</p>\n        </details>\n        <details>\n            <summary>2. 如何选择套餐？</summary>\n            <p>基础版适合轻度使用，旗舰版适合重度流媒体和游戏用户，团队版适合企业或大规模多设备家庭使用。</p>\n        </details>\n        <details>\n            <summary>3. 支持哪些设备？</summary>\n            <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台设备同时在线。</p>\n        </details>\n        <details>\n            <summary>4. 如何下载客户端？</summary>\n            <p>在官网首页点击“客户端下载”链接，选择对应系统版本即可下载安装，官方保证安全稳定。</p>\n        </details>\n        <details>\n            <summary>5. 流媒体解锁效果如何？</summary>\n            <p>旗舰版和团队版提供全节点原生解锁，支持Netflix、YouTube等主流流媒体平台。</p>\n        </details>\n        <details>\n            <summary>6. 客服支持如何？</summary>\n            <p>旗舰版提供7x24 优先工单，团队版有专属客户经理服务，快速解决使用问题。</p>\n        </details>\n        <div>\n            <p>广告位招租 | 联系商务获取更多合作</p>\n        </div>\n        <div>\n            <h3>友情链接</h3>\n            <ul>\n                <li><a href=\"#\">VPN社区</a></li>\n                <li><a href=\"#\">机场订阅指南</a></li>\n                <li><a href=\"#\">加速器教程</a></li>\n            </ul>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "58418b4a03ebabc65c38302d9d65b099627faa27479fec1f2992d126286b777f",
+          "seo": {
+            "title": "GPT代充 - 机场订阅 VPN加速器 客户端下载",
+            "keywords": "GPT代充, 机场订阅, VPN加速器, 客户端下载, 官网, 加速服务, 流量套餐",
+            "description": "GPT代充提供专业机场订阅与VPN加速服务，多种流量套餐可选，支持流媒体解锁和官方客户端下载。安全稳定线路保障您的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmndpg.cn",
+    "host": "p-e8118d83aa.tmndpg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "aa8bacc0e3a5a5288612422588016d21e916118f867ce05b7eeae279ee8a7517",
+    "sitemap.xml": "b51971ad55af49353c28c71dac1702c9bd077b4482882e82f153e5e53ec39ea2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c99f4d7507f53b850355b8961e635738e259596f3c14ad3099b6c20b2727ccf",
+    "robots.txt": "7c8f9f47b8280967f1f8eaccf94a4b517b37e6ea9cfad674dc6403b13fc2e21f",
+    "9f8134942eabb843952a172af1cd2a4d.txt": "03fbf8aeee451449558627c324e97ab27c0494af631a11cf95dbefecd8977d65"
+  },
+  "revision": "aa3de4097c0480b7647fc702d173e3cd4b741cf8aae09c3d3a66b6271ea55ba1"
+}
